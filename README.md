@@ -6,7 +6,7 @@
 
 ## von externem repos
 #### Frisch holen und Austschecken
-- git clone <repi>
+- git clone {repi-url}
 #### Bestehendes von extern holen und auschecken
 - git pull
 #### hochladen
@@ -17,13 +17,13 @@
 - git log
 - git log  --oneline
 ### Adden
-- git add <datei>
+- git add {datei}
 ### Eintschecken
 - git commit
 - git commit -a
 
 ## Big troubles beheben!
 ### Änderungen rückgängig machen
-- git reset --hard <key>
+- git reset --hard {key}
 - git reset --hard HEAD
 
