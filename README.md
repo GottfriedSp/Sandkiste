@@ -3,7 +3,7 @@
 ## Benutzername und E-Mail ändern
 - git config --global user.name "John Doe"
 - git config --global user.email "john@doe.org"
-### Committer Namen ändern
+#### Committer Namen ändern
 - git config user.name "John Doe"
 - git config user.email "john@doe.org"
 
